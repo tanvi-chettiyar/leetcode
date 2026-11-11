@@ -12,4 +12,4 @@ WITH consec AS (
 SELECT
     DISTINCT num AS consecutivenums
 FROM consec
-WHERE consec_flag = 'T'
+WHERE consec_flag = 'T';
